@@ -1,4 +1,4 @@
-# Curso Alura - Git e Github: COntrole e Compartilhe seu Código
+# Curso Alura - Git e Github: Controle e Compartilhe seu Código
 
 ## Comandos utilizados 
 

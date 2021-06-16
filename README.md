@@ -13,6 +13,11 @@
 >git config --local user.name "Seu nome aqui"
 >git config --local user.email "seu@email.aqui"
 
+### Atualizando mudanças
+>git add .
+>git commit -m "comentario aqui"
+>git push <remote_repo> <branch>
+
 ### DOC
 
 https://git-scm.com/book/pt-br/v2/Fundamentos-de-Git-Gravando-Altera%C3%A7%C3%B5es-em-Seu-Reposit%C3%B3rio
